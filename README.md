@@ -1,1 +1,16 @@
-# Gdudi
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Web Page</title>
+</head>
+<body>
+
+    <h2>My Web Page with Image</h2>
+
+    <img src="image.jpg"
+         alt="This is a sample image"
+         height="300"
+         width="300">
+
+</body>
+</html>
